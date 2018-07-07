@@ -1,4 +1,4 @@
-#SoftRasterization
+# SoftRasterization
 
 图形学课程项目：实现一个软光栅化渲染器。
 
